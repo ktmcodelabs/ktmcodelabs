@@ -8,14 +8,7 @@
 - 🧰 Working on Frontend Development and UI/UX
 - ☕ Lots of coffee
 - 🤔 Thinker
-
-### 📫 How to reach me?
-
-✉️ byanjankarsujan@gmail.com
-
-🌐 https://sujanbyanjankar.com.np
-
-🐦 [@byanjankarsujan](https://twitter.com/byanjankarsujan)
+- 📫 How to reach me? ✉️ byanjankarsujan@gmail.com  🐦 [@byanjankarsujan](https://twitter.com/byanjankarsujan)
 
 
 <!--
