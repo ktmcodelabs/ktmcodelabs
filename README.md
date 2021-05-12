@@ -10,6 +10,9 @@
 - 🤔 Thinker
 - 📫 How to reach me? ✉️ byanjankarsujan@gmail.com  🐦 [@byanjankarsujan](https://twitter.com/byanjankarsujan)
 
+### ⚡Fun
+- [Clock](https://sujanbyanjankar.com.np/clock/)
+
 
 <!--
 **ktmcodelabs/ktmcodelabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
