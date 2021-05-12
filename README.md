@@ -1,5 +1,23 @@
 ### Hey there. I'm Sujan 🧒
 
+- 💻 Developer / Software Architect
+- 🎨 Occassional Designer
+- ✍️ Blogger
+- 🔡 Mysql / Oracle / PostgreSQL
+- ⚛️ Currently Lots of Javascript
+- 🧰 Working on Frontend Development and UI/UX
+- ☕ Lots of coffee
+- 🤔 Thinker
+
+### 📫 How to reach me?
+
+✉️ byanjankarsujan@gmail.com
+
+🌐 https://sujanbyanjankar.com.np
+
+🐦 [@byanjankarsujan](https://twitter.com/byanjankarsujan)
+
+
 <!--
 **ktmcodelabs/ktmcodelabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
