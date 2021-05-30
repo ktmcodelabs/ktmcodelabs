@@ -10,7 +10,7 @@
 - 🤔 Thinker
 - 📫 How to reach me? ✉️ byanjankarsujan@gmail.com  🐦 [@byanjankarsujan](https://twitter.com/byanjankarsujan)
 
-### ⚡Fun
+### ⚡ Fun Projects
 - [Clock](https://sujanbyanjankar.com.np/clock/)
 
 
