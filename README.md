@@ -12,6 +12,7 @@
 
 ### ⚡ Fun Projects
 - [Clock](https://sujanbyanjankar.com.np/clock/)
+- [Task Manager](https://gobyte-tasks-frontend.herokuapp.com/)
 
 
 <!--
