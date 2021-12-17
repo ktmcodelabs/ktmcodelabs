@@ -1,4 +1,4 @@
-### Hey there. I'm Sujan 🧒
+### This is Sujan 🧒
 
 - 💻 Developer / Software Architect
 - 🎨 Occassional Designer
